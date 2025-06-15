@@ -32,8 +32,7 @@ $$
 ## 마태복음 5:3
 ---
 # 예수님과 우리는 어떻게 연결 될 수 있을까?
-## 영생: [그 세대(올람)에 이르는 생명](![image](https://github.com/user-attachments/assets/f3b4e7fa-9f70-4195-b1ca-c2000aff7dc5)
-
+## 영생: [그 세대(올람)에 이르는 생명](https://youtu.be/kO24Rok5QKg?si=HE0MohOVFzXoqE9B)
 
 
 ---
