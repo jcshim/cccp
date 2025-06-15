@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0af354c3-a4b9-4976-89af-39cfd4db705e)# 인공지능과 하나님
+# 인공지능과 하나님
 ## LLM의 원리? 잘 하는 것, 왜 잘 할까?
 ### 번역, 요약, 자료조사
 ### 성경읽기 속도, (사람 vs LLM)
@@ -33,7 +33,6 @@ $$
 ---
 # 예수님과 우리는 어떻게 연결 될 수 있을까?
 ## 영생: [그 세대(올람)에 이르는 생명](https://youtu.be/kO24Rok5QKg?si=HE0MohOVFzXoqE9B)
-
 
 ---
 # 우리 몸의 신비
